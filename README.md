@@ -15,11 +15,13 @@ A web application that allows users to filter and search for shoes based on vari
 - **Vite**: A fast build tool and development server.
 
 ## Screenshots
+
 Here are some screenshots from the website:
-![Screenshot 1](images/screenshot-1.PNG)
-![Screenshot 2](images/screenshot-2.PNG)
-![Screenshot 2](images/screenshot-3.PNG)
-![Screenshot 2](images/screenshot-4.PNG)
+
+<img src="images/screenshot-1.PNG" width="250" />
+<img src="images/screenshot-2.PNG" width="250" />
+<img src="images/screenshot-3.PNG" width="250" />
+<img src="images/screenshot-4.PNG" width="250" />
 
 ## Getting Started
 
