@@ -1,8 +1,45 @@
-# React + Vite
+# Advanced Filtering
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that allows users to filter and search for shoes based on various criteria such as color, brand, and search input. This project demonstrates how to build an interactive filtering system with React.
 
-Currently, two official plugins are available:
+## Features
+- **Filter by Color**: Users can filter shoes based on available colors.
+- **Filter by Brand**: Choose shoes from specific brands.
+- **Search Input**: Users can search shoes by keywords.
+- **Responsive**: The application is designed to work seamlessly across different screen sizes.
+- **Deployed on GitHub Pages**: View the live version of the app [here](https://Kelsen23.github.io/Advanced-Filtering).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **React**: JavaScript library for building user interfaces.
+- **CSS**: Styling for layout and design.
+- **Vite**: A fast build tool and development server.
+
+## Screenshots
+Here are some screenshots from the website:
+![Screenshot 1](images/screenshot-1.PNG)
+![Screenshot 2](images/screenshot-2.PNG)
+![Screenshot 2](images/screenshot-3.PNG)
+![Screenshot 2](images/screenshot-4.PNG)
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+Ensure you have the following installed:
+- Node.js (>=14.0.0)
+- npm
+
+### Clone the repository
+git clone https://github.com/Kelsen23/Advanced-Filtering.git
+
+### Install Dependencies
+Navigate into the project directory and install the necessary dependencies:
+cd Advanced-Filtering
+npm install
+
+### Run the app locally
+npm run dev
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
