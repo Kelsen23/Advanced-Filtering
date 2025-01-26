@@ -33,7 +33,7 @@ Ensure you have the following installed:
 - npm
 
 ### Clone the repository
-```bash git clone https://github.com/Kelsen23/Advanced-Filtering.git
+`git clone https://github.com/Kelsen23/Advanced-Filtering.git`
 
 ### Install Dependencies
 Navigate into the project directory and install the necessary dependencies:
