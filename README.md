@@ -18,10 +18,10 @@ A web application that allows users to filter and search for shoes based on vari
 
 Here are some screenshots from the website:
 
-<img src="images/screenshot-1.PNG" width="400" />
-<img src="images/screenshot-2.PNG" width="400" />
-<img src="images/screenshot-3.PNG" width="400" />
-<img src="images/screenshot-4.PNG" width="400" />
+![Screenshot 1](./images/screenshot-1.PNG)
+![Screenshot 2](./images/screenshot-2.PNG)
+![Screenshot 3](./images/screenshot-3.PNG)
+![Screenshot 4](./images/screenshot-4.PNG)
 
 ## Getting Started
 
