@@ -37,11 +37,11 @@ Ensure you have the following installed:
 
 ### Install Dependencies
 Navigate into the project directory and install the necessary dependencies:
-cd Advanced-Filtering
-npm install
+`cd Advanced-Filtering`
+`npm install`
 
 ### Run the app locally
-npm run dev
+`npm run dev`
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
